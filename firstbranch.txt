@@ -1,1 +1,1 @@
-first branch file. lets modify ans see if merge works.
+first branch file. lets modify and see if merge works.
